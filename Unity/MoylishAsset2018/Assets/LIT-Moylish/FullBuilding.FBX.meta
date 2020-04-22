@@ -1,0 +1,1073 @@
+fileFormatVersion: 2
+guid: 23361e9a3ddc4e941b60147b02fd28ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 100 Blue Canteen Cladding
+    100002: 12391-LIT-00-ZZ-M3-A-0001-3DView-3DCeilings.fbx
+    100004: 12391-LIT-00-ZZ-M3-A-0001-3DView-3DDoors.fbx
+    100006: 12391-LIT-00-ZZ-M3-A-0001-3DView-3DFloorsandRoof.fbx
+    100008: 12391-LIT-00-ZZ-M3-A-0001-3DView-3DMisc.fbx
+    100010: 12391-LIT-00-ZZ-M3-A-0001-3DView-3DWalls.fbx
+    100012: 12391-LIT-00-ZZ-M3-A-0001-3DView-3DWindows.fbx
+    100014: Aluminium
+    100016: Aluminium 1
+    100018: Aluminium 2
+    100020: Aluminium 3
+    100022: Aluminium Black
+    100024: Aluminum
+    100026: Aluminum 1
+    100028: Aluminum 2
+    100030: Aluminum, Anodized Black
+    100032: Aluminum, Anodized White
+    100034: Asphalt, Bitumen
+    100036: Auditorium Stage
+    100038: Auditorium Stage 1
+    100040: Basketball Court Wood Flooring
+    100042: Black Logo
+    100044: Black Paint
+    100046: Blue Street Wall
+    100048: Brick, Common
+    100050: Ceiling Tile 600 x 600
+    100052: Ceilings
+    100054: Cherry
+    100056: Cladding, Vertical Ribbed
+    100058: Cladding, Vertical Ribbed Theatre
+    100060: Concrete
+    100062: Concrete - Cast-in-Place Concrete
+    100064: Concrete - Cast-in-Place Concrete 1
+    100066: Concrete Masonry Units
+    100068: Concrete Masonry Units _Low Density
+    100070: Concrete, Cast-in-Place - C15
+    100072: Concrete, Cast-in-Place gray
+    100074: Concrete, Precast
+    100076: Default
+    100078: Default Floor
+    100080: Default Wall
+    100082: Door - Frame/Mullion
+    100084: Door - Handle
+    100086: Door Handle - Aluminium
+    100088: Ex Bldgs
+    100090: //RootNode
+    100092: Generic
+    100094: Generic 1
+    100096: Generic 2
+    100098: Generic 3
+    100100: Glass
+    100102: Glass 1
+    100104: Glass 2
+    100106: Glass 3
+    100108: Glass Display Red
+    100110: Glass, White, High Luminance
+    100112: Glass-Signify-Luminous
+    100114: Grass
+    100116: Grey
+    100118: Gypsum Wall Board
+    100120: Light Blue Street Ope
+    100122: Metal - Aluminium
+    100124: Metal - Aluminium 1
+    100126: Metal - Aluminum
+    100128: Metal - Aluminum 1
+    100130: Metal - Aluminum Black
+    100132: Metal - Stainless Steel
+    100134: Metal - Stainless Steel,Polished
+    100136: Metal - Steel - ASTM A500 - Grade B - Rectangular and Square
+    100138: Metal - Steel 43-275
+    100140: Metal - Steel 50-355
+    100142: Metal Deck
+    100144: Metal, Paint Finish, Black, Matte Grills
+    100146: Metal, Paint Finish, White, Matte Grills
+    100148: Noberne Doors - Laminate - Formica - Polar White
+    100150: Orange Logo
+    100152: Paint - Aquamarine
+    100154: Paint - Lemon
+    100156: Paint - White
+    100158: Paint - White 1
+    100160: Paint - White 2
+    100162: Paint - White 3
+    100164: Paint - White 4
+    100166: Paint-Signify-Aluminum
+    100168: Plaster
+    100170: Red Paint
+    100172: Red Wall
+    100174: Rigid insulation
+    100176: RosettaCube
+    100178: Steel, Paint Finish, Dark Gray, Matte
+    100180: Steel, Paint Finish, Ivory, Glossy
+    100182: Wall, Standing Seam
+    100184: White Paint
+    100186: Window Frame
+    100188: Wine
+    100190: Wood Cladding Theatre
+    100192: Wood Cladding Theatre 1
+    400000: 100 Blue Canteen Cladding
+    400002: 12391-LIT-00-ZZ-M3-A-0001-3DView-3DCeilings.fbx
+    400004: 12391-LIT-00-ZZ-M3-A-0001-3DView-3DDoors.fbx
+    400006: 12391-LIT-00-ZZ-M3-A-0001-3DView-3DFloorsandRoof.fbx
+    400008: 12391-LIT-00-ZZ-M3-A-0001-3DView-3DMisc.fbx
+    400010: 12391-LIT-00-ZZ-M3-A-0001-3DView-3DWalls.fbx
+    400012: 12391-LIT-00-ZZ-M3-A-0001-3DView-3DWindows.fbx
+    400014: Aluminium
+    400016: Aluminium 1
+    400018: Aluminium 2
+    400020: Aluminium 3
+    400022: Aluminium Black
+    400024: Aluminum
+    400026: Aluminum 1
+    400028: Aluminum 2
+    400030: Aluminum, Anodized Black
+    400032: Aluminum, Anodized White
+    400034: Asphalt, Bitumen
+    400036: Auditorium Stage
+    400038: Auditorium Stage 1
+    400040: Basketball Court Wood Flooring
+    400042: Black Logo
+    400044: Black Paint
+    400046: Blue Street Wall
+    400048: Brick, Common
+    400050: Ceiling Tile 600 x 600
+    400052: Ceilings
+    400054: Cherry
+    400056: Cladding, Vertical Ribbed
+    400058: Cladding, Vertical Ribbed Theatre
+    400060: Concrete
+    400062: Concrete - Cast-in-Place Concrete
+    400064: Concrete - Cast-in-Place Concrete 1
+    400066: Concrete Masonry Units
+    400068: Concrete Masonry Units _Low Density
+    400070: Concrete, Cast-in-Place - C15
+    400072: Concrete, Cast-in-Place gray
+    400074: Concrete, Precast
+    400076: Default
+    400078: Default Floor
+    400080: Default Wall
+    400082: Door - Frame/Mullion
+    400084: Door - Handle
+    400086: Door Handle - Aluminium
+    400088: Ex Bldgs
+    400090: //RootNode
+    400092: Generic
+    400094: Generic 1
+    400096: Generic 2
+    400098: Generic 3
+    400100: Glass
+    400102: Glass 1
+    400104: Glass 2
+    400106: Glass 3
+    400108: Glass Display Red
+    400110: Glass, White, High Luminance
+    400112: Glass-Signify-Luminous
+    400114: Grass
+    400116: Grey
+    400118: Gypsum Wall Board
+    400120: Light Blue Street Ope
+    400122: Metal - Aluminium
+    400124: Metal - Aluminium 1
+    400126: Metal - Aluminum
+    400128: Metal - Aluminum 1
+    400130: Metal - Aluminum Black
+    400132: Metal - Stainless Steel
+    400134: Metal - Stainless Steel,Polished
+    400136: Metal - Steel - ASTM A500 - Grade B - Rectangular and Square
+    400138: Metal - Steel 43-275
+    400140: Metal - Steel 50-355
+    400142: Metal Deck
+    400144: Metal, Paint Finish, Black, Matte Grills
+    400146: Metal, Paint Finish, White, Matte Grills
+    400148: Noberne Doors - Laminate - Formica - Polar White
+    400150: Orange Logo
+    400152: Paint - Aquamarine
+    400154: Paint - Lemon
+    400156: Paint - White
+    400158: Paint - White 1
+    400160: Paint - White 2
+    400162: Paint - White 3
+    400164: Paint - White 4
+    400166: Paint-Signify-Aluminum
+    400168: Plaster
+    400170: Red Paint
+    400172: Red Wall
+    400174: Rigid insulation
+    400176: RosettaCube
+    400178: Steel, Paint Finish, Dark Gray, Matte
+    400180: Steel, Paint Finish, Ivory, Glossy
+    400182: Wall, Standing Seam
+    400184: White Paint
+    400186: Window Frame
+    400188: Wine
+    400190: Wood Cladding Theatre
+    400192: Wood Cladding Theatre 1
+    2100000: No Name
+    2100002: Concrete, Cast-in-Place gray
+    2100004: Generic
+    2100006: Grass
+    2100008: Ex Bldgs
+    2100010: Metal - Steel 43-275
+    2100012: Metal - Steel 50-355
+    2100014: Metal - Stainless Steel,Polished
+    2100016: Auditorium Stage
+    2100018: Glass, White, High Luminance
+    2100020: Steel, Paint Finish, Ivory, Glossy
+    2100022: Wine
+    2100024: Grey
+    2100026: Wood Cladding Theatre
+    2100028: Metal - Stainless Steel
+    2100030: Black Logo
+    2100032: Orange Logo
+    2100034: Glass-Signify-Luminous
+    2100036: Paint-Signify-Aluminum
+    2100038: Glass
+    2100040: Cherry
+    2100042: Glass Display Red
+    2100044: White Paint
+    2100046: Paint - White
+    2100048: Aluminum, Anodized White
+    2100050: Metal, Paint Finish, White, Matte Grills
+    2100052: BlackMetal
+    2100054: Aluminum
+    2100056: Black Paint
+    2100058: Metal - Aluminium
+    2100060: Aluminum, Anodized Black
+    2100062: Red Paint
+    2100064: Concrete Masonry Units _Low Density
+    2100066: Brick, Common
+    2100068: Red Wall
+    2100070: Light Blue Street Ope
+    2100072: Plaster
+    2100074: Default Wall
+    2100076: Paint - Aquamarine
+    2100078: Blue Street Wall
+    2100080: Paint - Lemon
+    2100082: Concrete Masonry Units
+    2100084: Cladding, Vertical Ribbed Theatre
+    2100086: Wall, Standing Seam
+    2100088: Cladding, Vertical Ribbed
+    2100090: Aluminium
+    2100092: Steel, Paint Finish, Dark Gray, Matte
+    2100094: 100 Blue Canteen Cladding
+    2100096: Default
+    2100098: Aluminium Black
+    2100100: Ceilings
+    2100102: Gypsum Wall Board
+    2100104: Ceiling Tile 600 x 600
+    2100106: Door - Frame_Mullion
+    2100108: Metal - Aluminum
+    2100110: Metal - Aluminum Black
+    2100112: Noberne Doors - Laminate - Formica - Polar White
+    2100114: Rigid insulation
+    2100116: Door Handle - Aluminium
+    2100118: Metal - Steel - ASTM A500 - Grade B - Rectangular and Square
+    2100120: Door - Handle
+    2100122: Concrete, Precast
+    2100124: Concrete
+    2100126: Asphalt, Bitumen
+    2100128: Metal Deck
+    2100130: Concrete, Cast-in-Place - C15
+    2100132: Default Floor
+    2100134: Window Frame
+    2300000: 100 Blue Canteen Cladding
+    2300002: Aluminium
+    2300004: Aluminium 1
+    2300006: Aluminium 2
+    2300008: Aluminium 3
+    2300010: Aluminium Black
+    2300012: Aluminum
+    2300014: Aluminum 1
+    2300016: Aluminum 2
+    2300018: Aluminum, Anodized Black
+    2300020: Aluminum, Anodized White
+    2300022: Asphalt, Bitumen
+    2300024: Auditorium Stage
+    2300026: Auditorium Stage 1
+    2300028: Basketball Court Wood Flooring
+    2300030: Black Logo
+    2300032: Black Paint
+    2300034: Blue Street Wall
+    2300036: Brick, Common
+    2300038: Ceiling Tile 600 x 600
+    2300040: Ceilings
+    2300042: Cherry
+    2300044: Cladding, Vertical Ribbed
+    2300046: Cladding, Vertical Ribbed Theatre
+    2300048: Concrete
+    2300050: Concrete - Cast-in-Place Concrete
+    2300052: Concrete - Cast-in-Place Concrete 1
+    2300054: Concrete Masonry Units
+    2300056: Concrete Masonry Units _Low Density
+    2300058: Concrete, Cast-in-Place - C15
+    2300060: Concrete, Cast-in-Place gray
+    2300062: Concrete, Precast
+    2300064: Default
+    2300066: Default Floor
+    2300068: Default Wall
+    2300070: Door - Frame/Mullion
+    2300072: Door - Handle
+    2300074: Door Handle - Aluminium
+    2300076: Ex Bldgs
+    2300078: Generic
+    2300080: Generic 1
+    2300082: Generic 2
+    2300084: Generic 3
+    2300086: Glass
+    2300088: Glass 1
+    2300090: Glass 2
+    2300092: Glass 3
+    2300094: Glass Display Red
+    2300096: Glass, White, High Luminance
+    2300098: Glass-Signify-Luminous
+    2300100: Grass
+    2300102: Grey
+    2300104: Gypsum Wall Board
+    2300106: Light Blue Street Ope
+    2300108: Metal - Aluminium
+    2300110: Metal - Aluminium 1
+    2300112: Metal - Aluminum
+    2300114: Metal - Aluminum 1
+    2300116: Metal - Aluminum Black
+    2300118: Metal - Stainless Steel
+    2300120: Metal - Stainless Steel,Polished
+    2300122: Metal - Steel - ASTM A500 - Grade B - Rectangular and Square
+    2300124: Metal - Steel 43-275
+    2300126: Metal - Steel 50-355
+    2300128: Metal Deck
+    2300130: Metal, Paint Finish, Black, Matte Grills
+    2300132: Metal, Paint Finish, White, Matte Grills
+    2300134: Noberne Doors - Laminate - Formica - Polar White
+    2300136: Orange Logo
+    2300138: Paint - Aquamarine
+    2300140: Paint - Lemon
+    2300142: Paint - White
+    2300144: Paint - White 1
+    2300146: Paint - White 2
+    2300148: Paint - White 3
+    2300150: Paint - White 4
+    2300152: Paint-Signify-Aluminum
+    2300154: Plaster
+    2300156: Red Paint
+    2300158: Red Wall
+    2300160: Rigid insulation
+    2300162: RosettaCube
+    2300164: Steel, Paint Finish, Dark Gray, Matte
+    2300166: Steel, Paint Finish, Ivory, Glossy
+    2300168: Wall, Standing Seam
+    2300170: White Paint
+    2300172: Window Frame
+    2300174: Wine
+    2300176: Wood Cladding Theatre
+    2300178: Wood Cladding Theatre 1
+    3300000: 100 Blue Canteen Cladding
+    3300002: Aluminium
+    3300004: Aluminium 1
+    3300006: Aluminium 2
+    3300008: Aluminium 3
+    3300010: Aluminium Black
+    3300012: Aluminum
+    3300014: Aluminum 1
+    3300016: Aluminum 2
+    3300018: Aluminum, Anodized Black
+    3300020: Aluminum, Anodized White
+    3300022: Asphalt, Bitumen
+    3300024: Auditorium Stage
+    3300026: Auditorium Stage 1
+    3300028: Basketball Court Wood Flooring
+    3300030: Black Logo
+    3300032: Black Paint
+    3300034: Blue Street Wall
+    3300036: Brick, Common
+    3300038: Ceiling Tile 600 x 600
+    3300040: Ceilings
+    3300042: Cherry
+    3300044: Cladding, Vertical Ribbed
+    3300046: Cladding, Vertical Ribbed Theatre
+    3300048: Concrete
+    3300050: Concrete - Cast-in-Place Concrete
+    3300052: Concrete - Cast-in-Place Concrete 1
+    3300054: Concrete Masonry Units
+    3300056: Concrete Masonry Units _Low Density
+    3300058: Concrete, Cast-in-Place - C15
+    3300060: Concrete, Cast-in-Place gray
+    3300062: Concrete, Precast
+    3300064: Default
+    3300066: Default Floor
+    3300068: Default Wall
+    3300070: Door - Frame/Mullion
+    3300072: Door - Handle
+    3300074: Door Handle - Aluminium
+    3300076: Ex Bldgs
+    3300078: Generic
+    3300080: Generic 1
+    3300082: Generic 2
+    3300084: Generic 3
+    3300086: Glass
+    3300088: Glass 1
+    3300090: Glass 2
+    3300092: Glass 3
+    3300094: Glass Display Red
+    3300096: Glass, White, High Luminance
+    3300098: Glass-Signify-Luminous
+    3300100: Grass
+    3300102: Grey
+    3300104: Gypsum Wall Board
+    3300106: Light Blue Street Ope
+    3300108: Metal - Aluminium
+    3300110: Metal - Aluminium 1
+    3300112: Metal - Aluminum
+    3300114: Metal - Aluminum 1
+    3300116: Metal - Aluminum Black
+    3300118: Metal - Stainless Steel
+    3300120: Metal - Stainless Steel,Polished
+    3300122: Metal - Steel - ASTM A500 - Grade B - Rectangular and Square
+    3300124: Metal - Steel 43-275
+    3300126: Metal - Steel 50-355
+    3300128: Metal Deck
+    3300130: Metal, Paint Finish, Black, Matte Grills
+    3300132: Metal, Paint Finish, White, Matte Grills
+    3300134: Noberne Doors - Laminate - Formica - Polar White
+    3300136: Orange Logo
+    3300138: Paint - Aquamarine
+    3300140: Paint - Lemon
+    3300142: Paint - White
+    3300144: Paint - White 1
+    3300146: Paint - White 2
+    3300148: Paint - White 3
+    3300150: Paint - White 4
+    3300152: Paint-Signify-Aluminum
+    3300154: Plaster
+    3300156: Red Paint
+    3300158: Red Wall
+    3300160: Rigid insulation
+    3300162: RosettaCube
+    3300164: Steel, Paint Finish, Dark Gray, Matte
+    3300166: Steel, Paint Finish, Ivory, Glossy
+    3300168: Wall, Standing Seam
+    3300170: White Paint
+    3300172: Window Frame
+    3300174: Wine
+    3300176: Wood Cladding Theatre
+    3300178: Wood Cladding Theatre 1
+    4300000: RosettaCube
+    4300002: Concrete, Cast-in-Place gray
+    4300004: Generic
+    4300006: Grass
+    4300008: Ex Bldgs
+    4300010: Concrete - Cast-in-Place Concrete
+    4300012: Metal - Steel 43-275
+    4300014: Metal - Steel 50-355
+    4300016: Metal - Stainless Steel,Polished
+    4300018: Auditorium Stage
+    4300020: Glass, White, High Luminance
+    4300022: Steel, Paint Finish, Ivory, Glossy
+    4300024: Wine
+    4300026: Grey
+    4300028: Wood Cladding Theatre
+    4300030: Metal - Stainless Steel
+    4300032: Black Logo
+    4300034: Orange Logo
+    4300036: Glass-Signify-Luminous
+    4300038: Paint-Signify-Aluminum
+    4300040: Glass
+    4300042: Cherry
+    4300044: Glass Display Red
+    4300046: White Paint
+    4300048: Paint - White
+    4300050: Aluminum, Anodized White
+    4300052: Metal, Paint Finish, White, Matte Grills
+    4300054: Metal, Paint Finish, Black, Matte Grills
+    4300056: Aluminum
+    4300058: Black Paint
+    4300060: Metal - Aluminium
+    4300062: Aluminum, Anodized Black
+    4300064: Red Paint
+    4300066: Concrete Masonry Units _Low Density
+    4300068: Brick, Common
+    4300070: Red Wall
+    4300072: Light Blue Street Ope
+    4300074: Plaster
+    4300076: Default Wall
+    4300078: Paint - Aquamarine
+    4300080: Blue Street Wall
+    4300082: Paint - Lemon
+    4300084: Concrete Masonry Units
+    4300086: Glass
+    4300088: Cladding, Vertical Ribbed Theatre
+    4300090: Paint - White
+    4300092: Wood Cladding Theatre
+    4300094: Wall, Standing Seam
+    4300096: Cladding, Vertical Ribbed
+    4300098: Generic
+    4300100: Aluminium
+    4300102: Steel, Paint Finish, Dark Gray, Matte
+    4300104: 100 Blue Canteen Cladding
+    4300106: Default
+    4300108: Aluminium Black
+    4300110: Ceilings
+    4300112: Gypsum Wall Board
+    4300114: Ceiling Tile 600 x 600
+    4300116: Aluminium
+    4300118: Paint - White
+    4300120: Door - Frame/Mullion
+    4300122: Glass
+    4300124: Aluminum
+    4300126: Metal - Aluminum
+    4300128: Metal - Aluminium
+    4300130: Metal - Aluminum Black
+    4300132: Noberne Doors - Laminate - Formica - Polar White
+    4300134: Rigid insulation
+    4300136: Generic
+    4300138: Door Handle - Aluminium
+    4300140: Metal - Steel - ASTM A500 - Grade B - Rectangular and Square
+    4300142: Door - Handle
+    4300144: Concrete, Precast
+    4300146: Paint - White
+    4300148: Concrete
+    4300150: Concrete - Cast-in-Place Concrete
+    4300152: Asphalt, Bitumen
+    4300154: Metal - Aluminum
+    4300156: Metal Deck
+    4300158: Concrete, Cast-in-Place - C15
+    4300160: Aluminium
+    4300162: Default Floor
+    4300164: Auditorium Stage
+    4300166: Generic
+    4300168: Basketball Court Wood Flooring
+    4300170: Window Frame
+    4300172: Glass
+    4300174: Aluminium
+    4300176: Aluminum
+    4300178: Paint - White
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 100 Blue Canteen Cladding
+    second: {fileID: 2100000, guid: 35bcfe1dfdcefb4489f59c33dece6b5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium
+    second: {fileID: 2100000, guid: b17c258b78a8a614cbeefcf6934162dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium Black
+    second: {fileID: 2100000, guid: 76214084660fe194aa67ce20f6e8ef1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum
+    second: {fileID: 2100000, guid: 16aab3a15ec651f40a91532ccd418d5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum, Anodized Black
+    second: {fileID: 2100000, guid: d91516357acdcc9448d026437060511c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum, Anodized White
+    second: {fileID: 2100000, guid: 76f5e07471dc22447ab1085fb6f5f09f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asphalt, Bitumen
+    second: {fileID: 2100000, guid: 4c195ba34ee93c74bb2e434caf9af7e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Auditorium Stage
+    second: {fileID: 2100000, guid: a3f1faf36bc802f4583a4be223c3908e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Logo
+    second: {fileID: 2100000, guid: 116edb8c6fe0f264aabca7d072d54614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Paint
+    second: {fileID: 2100000, guid: f0eec1e2943e7304db25eeb28ecf0c06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackMetal
+    second: {fileID: 2100000, guid: 4ec06bc0118d9b04e94212c0b5cad580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue Street Wall
+    second: {fileID: 2100000, guid: 2176fe088a7678f48a0e3c059571218a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick, Common
+    second: {fileID: 2100000, guid: e75b3dba0f429544c93ea2c5de2cdc7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling Tile 600 x 600
+    second: {fileID: 2100000, guid: 5e339a00b79f5da44b1c476f9febabe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceilings
+    second: {fileID: 2100000, guid: 89b88909f9d08214b920a069076da8ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cherry
+    second: {fileID: 2100000, guid: 3ff586990ee77d04a957e2eed15533dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cladding, Vertical Ribbed
+    second: {fileID: 2100000, guid: 788d62cfdb02a8449ac6117332b1565e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cladding, Vertical Ribbed Theatre
+    second: {fileID: 2100000, guid: f1e7eaa9218b4624abdf2ba920a36284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete
+    second: {fileID: 2100000, guid: d43fc80b2bfb00043886a4374e872dd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete Masonry Units
+    second: {fileID: 2100000, guid: fdf21530e5c39a5418fb9e7f92f5b5a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete Masonry Units _Low Density
+    second: {fileID: 2100000, guid: 9e4fc8e6ae7ff9b498928484b3447a68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete, Cast-in-Place - C15
+    second: {fileID: 2100000, guid: 7f0d58499e9a6ba4bae620dff1f9d578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete, Cast-in-Place gray
+    second: {fileID: 2100000, guid: ddc7fc5a8c19ed049bfb7f4f7c415b0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete, Precast
+    second: {fileID: 2100000, guid: 855f8389df531e742bba0e6bdb9e514a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: ac4149af087c42d4f87c71dc2b658266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Floor
+    second: {fileID: 2100000, guid: 1dea9f3918243dc4983fe65d351f7133, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Wall
+    second: {fileID: 2100000, guid: 46239a07e2aea5a4cb6df1c9175cb72d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door - Frame_Mullion
+    second: {fileID: 2100000, guid: be71b3bfe709caa4fbf63a0371a9a8fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door - Handle
+    second: {fileID: 2100000, guid: b5d39e5ff1b7295469fdc77630b9fea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door Handle - Aluminium
+    second: {fileID: 2100000, guid: 80b65f764152b74479c32eb6105b376f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ex Bldgs
+    second: {fileID: 2100000, guid: 628c489e46ed4dc4784e9942ed2d24a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Generic
+    second: {fileID: 2100000, guid: 2407ce9d22defaf4b8512a8f78f233fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: e590afe6490958143be038474e104032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Display Red
+    second: {fileID: 2100000, guid: 56f2a24c9e243194a8a707f1078c0b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass, White, High Luminance
+    second: {fileID: 2100000, guid: 297982ef77459eb44bca65493b767cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass-Signify-Luminous
+    second: {fileID: 2100000, guid: 982da09b71044b740957eb1a07206181, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: 5de1f9e30c1a4944db691ac162252aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey
+    second: {fileID: 2100000, guid: 8248f5162a2e19a40a19b6f74ca25c4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gypsum Wall Board
+    second: {fileID: 2100000, guid: 7f45f7abb13f54743b11c182bbd2d3a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light Blue Street Ope
+    second: {fileID: 2100000, guid: 54b180678f1200a4f88725d50f9bac2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Aluminium
+    second: {fileID: 2100000, guid: b983d44c25375cb428d70d5f39e254a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Aluminum
+    second: {fileID: 2100000, guid: e39e7a36fc62c3647821aa1f8ecd8caf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Aluminum Black
+    second: {fileID: 2100000, guid: 22d4bc111fb773945b5d531bbe0379ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Stainless Steel
+    second: {fileID: 2100000, guid: 5e5ca3a678b086d4b94768a4ef9d8670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Stainless Steel,Polished
+    second: {fileID: 2100000, guid: d5da096500e9637438668f1e5e7f0447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Steel - ASTM A500 - Grade B - Rectangular and Square
+    second: {fileID: 2100000, guid: 0242dd7eac1090e4db6bbea37f8abc35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Steel 43-275
+    second: {fileID: 2100000, guid: 40955f23d0b4e464d8d2c123e47b9957, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Steel 50-355
+    second: {fileID: 2100000, guid: 065b2f2001b7ad1418049d4fb0ccf4ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Deck
+    second: {fileID: 2100000, guid: a13a2034560a98342afa61c107bfcd21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal, Paint Finish, White, Matte Grills
+    second: {fileID: 2100000, guid: e2b4e69c0e3a4dc4a8d5217be596c9d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e4b7fb56da974e446bf0c99c1a1c5a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noberne Doors - Laminate - Formica - Polar White
+    second: {fileID: 2100000, guid: a58c569b9e83d0a469116f0d2016d2d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange Logo
+    second: {fileID: 2100000, guid: f6077568158fe0b48a8d99ef625972a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint - Aquamarine
+    second: {fileID: 2100000, guid: 136bf4496f8243d43a19e36227bf0277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint - Lemon
+    second: {fileID: 2100000, guid: edd001a77cf06d24181e18e5de4b7790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint - White
+    second: {fileID: 2100000, guid: 835ec8d6708a2c44ca0bcf8b5f271e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint-Signify-Aluminum
+    second: {fileID: 2100000, guid: f96c842628b63fe4f9b300bbb430c336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster
+    second: {fileID: 2100000, guid: d7cc20a41c8773745aa2a1a1a6f01aa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Paint
+    second: {fileID: 2100000, guid: 9ffb965d1dd72904db7ecdc82b91bf0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Wall
+    second: {fileID: 2100000, guid: e22917f7f4124044db159d208e364e1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rigid insulation
+    second: {fileID: 2100000, guid: f8c2ff33fbf8d804193ec94ced9ac540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel, Paint Finish, Dark Gray, Matte
+    second: {fileID: 2100000, guid: 5a5080dd0dc45ec4ea5edc218f96b11c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel, Paint Finish, Ivory, Glossy
+    second: {fileID: 2100000, guid: 476f98062c647284b9e528d906f5dfcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall, Standing Seam
+    second: {fileID: 2100000, guid: 7a1824cfe1a62384abcc05470ac683df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Paint
+    second: {fileID: 2100000, guid: a20777a1fae2ff54d8d6ad62a5d4ae69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window Frame
+    second: {fileID: 2100000, guid: c04a213f59e34ae469aa3fdd374dde12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wine
+    second: {fileID: 2100000, guid: f669a546090da8e47a7a38ab3e5a5930, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Cladding Theatre
+    second: {fileID: 2100000, guid: 6024f29d7eb927349b2e749c543eecbd, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metals.Ornamental Metals.Aluminum.Brushed.Random
+    second: {fileID: 2800000, guid: ce9637b0a9e26304eaa4f572cae62427, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metals.Ornamental Metals.Plate.Mesh.cutout
+    second: {fileID: 2800000, guid: 62ac057a4d97b7e48b9a2d5618862091, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick_non_uniform_running_bump
+    second: {fileID: 2800000, guid: 6e6f2af96fcfe4845bdaed46843a69bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick_non_uniform_running_burgundy
+    second: {fileID: 2800000, guid: a473bc25fdc823e4b960521c6f73cdc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cmu_running_200x400_bump
+    second: {fileID: 2800000, guid: cc50b39f270d0be458bf8f29d813b5bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cmu_running_200x400_gray
+    second: {fileID: 2800000, guid: 0f5a6e214a1990941adc6e0f2b456244, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete.cast-in-place.exposed aggregate.coarse
+    second: {fileID: 2800000, guid: 2d668fa2a1bdf704db73e38acfbdf6e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete.cast-in-place.flat.grey.1
+    second: {fileID: 2800000, guid: 8a617e1e62203e14ea0135111dd61d21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete.precast structural concrete.smooth
+    second: {fileID: 2800000, guid: a6bef6b2f5e6cbb4ca3f90d323aa28e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: finishes.ceilings.acoustical tile.exposed grid.2x2.pebble.white
+    second: {fileID: 2800000, guid: 1401d5c86633e3345981f95ea0f6af64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: finishes.gypsum board.painted.white
+    second: {fileID: 2800000, guid: a86e59e7272c12c488ab03b7e93de400, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: finishes.gypsum board.painted.white.bump
+    second: {fileID: 2800000, guid: da60a68ac133db94dbc63fd33a266c71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: finishes.plaster.stucco.fine.white
+    second: {fileID: 2800000, guid: 7d2cfc2810bcc5b4eb09586356c3cbc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: finishes.plaster.stucco.fine.white.bump
+    second: {fileID: 2800000, guid: 08e6e85f91d853448946e4635ea197e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plastic_course_bump
+    second: {fileID: 2800000, guid: 04610dde8cd2b2943821bfdc3df17892, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sitework.planting.grass.thick
+    second: {fileID: 2800000, guid: 72af83c4e1f47df43b289355beabe503, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sitework.planting.grass.thick.bump
+    second: {fileID: 2800000, guid: 976113828eb14264597c57aa11f71ab1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: steelplt
+    second: {fileID: 2800000, guid: 44412397dbfb7714baab20c8f0cd6276, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_birch_bump
+    second: {fileID: 2800000, guid: 3ced7a7cfdf5ddc449823319aa4a3c8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_birch_color
+    second: {fileID: 2800000, guid: 85f6f97e36c0c2040ac982436985a10c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: woods & plastics.finish carpentry.wood.cherry
+    second: {fileID: 2800000, guid: b8ee6b433a2771d44897df4b253636b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: woods & plastics.finish carpentry.wood.pine
+    second: {fileID: 2800000, guid: c4517acabad262247af47cfeb1fd1fc6, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
