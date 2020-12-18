@@ -59,6 +59,6 @@ sysinfo.txt
 crashlytics-build.properties
 
 
-# OverLarge Files
-*.fbx
-*.max
+# LFS Support Added OverLarge Files
+#*.fbx
+#*.max
